@@ -1,0 +1,5 @@
+RoomID,Type,PricePerNight,Availability
+101,Single,1100.0,true
+102,Double,1500.0,true
+103,Suite,2500.0,true
+104,Single,1100.0,true
